@@ -1,0 +1,1 @@
+print("Men 'Anaconda' va 'Spyder' programmalarini o'rnatdim")
